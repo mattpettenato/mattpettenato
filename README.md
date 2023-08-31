@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: GDScript
+- 🔭 I’m currently working on: React Flask Typescript Fantasy Football App
 - 📫 How to reach me: mattpettenato@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I played baseball my whole life and recently picked up golf. You can find me on weekends trying to lower my handicap.
