@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: React Flask Fantasy Football App
+- 🔭 I’m currently working on: NextJS
 - 📫 How to reach me: mattpettenato@gmail.com
 - ⚡ Fun fact: I recently picked up golf. You can find me on weekends trying to lower my handicap.
 
