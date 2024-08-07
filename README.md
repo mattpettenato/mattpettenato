@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: NextJS
+- 🔭 I’m currently working on: NodeJS
 - 📫 How to reach me: mattpettenato@gmail.com
 - ⚡ Fun fact: You can find me on weekends trying to lower my handicap on the golf course.
 
