@@ -1,3 +1,5 @@
+<!--- 
+
 - 📫 How to reach me: mattpettenato@gmail.com
 
 
@@ -9,9 +11,6 @@
   <br>
   <br>
 </p>
-
-
-<!--- 
 - 🔭 I’m currently working on: NodeJS
 - ⚡ Fun fact: You can find me on weekends trying to lower my handicap on the golf course.
 - 🌱 I’m currently learning: 
